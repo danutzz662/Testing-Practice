@@ -6,7 +6,7 @@
   "semi": true,
   "experimentalOperatorPosition": "end",
   "experimentalTernaries": true,
-  "singleQuote": false,
+  "singleQuote": true,
   "jsxSingleQuote": true,
   "quoteProps": "preserve",
   "trailingComma": "all",
@@ -20,6 +20,5 @@
   "requirePragma": false,
   "tabWidth": 2,
   "useTabs": false,
-  "embeddedLanguageFormatting": "auto",
-  "cursorOffset": -1
+  "embeddedLanguageFormatting": "auto"
 }
